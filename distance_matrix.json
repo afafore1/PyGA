@@ -1,0 +1,414 @@
+{
+   "data":[
+      {
+         "origin":"Arkansas, USA",
+         "destinations":[
+            {
+               "destination":"Alabama, USA",
+               "distance":699078
+            },
+            {
+               "destination":"Alaska, USA",
+               "distance":6222333
+            },
+            {
+               "destination":"Arizona, USA",
+               "distance":1988406
+            },
+            {
+               "destination":"California, USA",
+               "distance":2901954
+            },
+            {
+               "destination":"Colorado, USA",
+               "distance":1685534
+            },
+            {
+               "destination":"Connecticut, USA",
+               "distance":2104387
+            },
+            {
+               "destination":"Delaware, USA",
+               "distance":1748887
+            },
+            {
+               "destination":"Florida, USA",
+               "distance":1597216
+            },
+            {
+               "destination":"Georgia, USA",
+               "distance":1046625
+            }
+         ]
+      },
+      {
+         "origin":"Connecticut, USA",
+         "destinations":[
+            {
+               "destination":"Alabama, USA",
+               "distance":1867134
+            },
+            {
+               "destination":"Alaska, USA",
+               "distance":7098549
+            },
+            {
+               "destination":"Arizona, USA",
+               "distance":3915997
+            },
+            {
+               "destination":"Arkansas, USA",
+               "distance":2103586
+            },
+            {
+               "destination":"California, USA",
+               "distance":4810328
+            },
+            {
+               "destination":"Colorado, USA",
+               "distance":3085514
+            },
+            {
+               "destination":"Delaware, USA",
+               "distance":455690
+            },
+            {
+               "destination":"Florida, USA",
+               "distance":1995759
+            },
+            {
+               "destination":"Georgia, USA",
+               "distance":1628497
+            }
+         ]
+      },
+      {
+         "origin":"Delaware, USA",
+         "destinations":[
+            {
+               "destination":"Alabama, USA",
+               "distance":1499456
+            },
+            {
+               "destination":"Alaska, USA",
+               "distance":6961740
+            },
+            {
+               "destination":"Arizona, USA",
+               "distance":3670497
+            },
+            {
+               "destination":"Arkansas, USA",
+               "distance":1748750
+            },
+            {
+               "destination":"California, USA",
+               "distance":4584045
+            },
+            {
+               "destination":"Colorado, USA",
+               "distance":2909094
+            },
+            {
+               "destination":"Connecticut, USA",
+               "distance":457835
+            },
+            {
+               "destination":"Florida, USA",
+               "distance":1628081
+            },
+            {
+               "destination":"Georgia, USA",
+               "distance":1260820
+            }
+         ]
+      },
+      {
+         "origin":"Florida, USA",
+         "destinations":[
+            {
+               "destination":"Alabama, USA",
+               "distance":910458
+            },
+            {
+               "destination":"Alaska, USA",
+               "distance":7667587
+            },
+            {
+               "destination":"Arizona, USA",
+               "distance":3452768
+            },
+            {
+               "destination":"Arkansas, USA",
+               "distance":1598440
+            },
+            {
+               "destination":"California, USA",
+               "distance":4477826
+            },
+            {
+               "destination":"Colorado, USA",
+               "distance":3163655
+            },
+            {
+               "destination":"Connecticut, USA",
+               "distance":1994606
+            },
+            {
+               "destination":"Delaware, USA",
+               "distance":1625679
+            },
+            {
+               "destination":"Georgia, USA",
+               "distance":588458
+            }
+         ]
+      },
+      {
+         "origin":"Georgia, USA",
+         "destinations":[
+            {
+               "destination":"Alabama, USA",
+               "distance":442680
+            },
+            {
+               "destination":"Alaska, USA",
+               "distance":7117559
+            },
+            {
+               "destination":"Arizona, USA",
+               "distance":3034498
+            },
+            {
+               "destination":"Arkansas, USA",
+               "distance":1048411
+            },
+            {
+               "destination":"California, USA",
+               "distance":3948046
+            },
+            {
+               "destination":"Colorado, USA",
+               "distance":2613626
+            },
+            {
+               "destination":"Connecticut, USA",
+               "distance":1629668
+            },
+            {
+               "destination":"Delaware, USA",
+               "distance":1260740
+            },
+            {
+               "destination":"Florida, USA",
+               "distance":588816
+            }
+         ]
+      },
+      {
+         "origin":"Alaska, USA",
+         "destinations":[
+            {
+               "destination":"Alabama, USA",
+               "distance":6925420
+            },
+            {
+               "destination":"Arizona, USA",
+               "distance":5778249
+            },
+            {
+               "destination":"Arkansas, USA",
+               "distance":6215539
+            },
+            {
+               "destination":"California, USA",
+               "distance":5262097
+            },
+            {
+               "destination":"Colorado, USA",
+               "distance":5176472
+            },
+            {
+               "destination":"Connecticut, USA",
+               "distance":7094065
+            },
+            {
+               "destination":"Delaware, USA",
+               "distance":6954351
+            },
+            {
+               "destination":"Florida, USA",
+               "distance":7658590
+            },
+            {
+               "destination":"Georgia, USA",
+               "distance":7107999
+            }
+         ]
+      },
+      {
+         "origin":"Arizona, USA",
+         "destinations":[
+            {
+               "destination":"Alabama, USA",
+               "distance":2566305
+            },
+            {
+               "destination":"Alaska, USA",
+               "distance":5779564
+            },
+            {
+               "destination":"Arkansas, USA",
+               "distance":1988101
+            },
+            {
+               "destination":"California, USA",
+               "distance":1182768
+            },
+            {
+               "destination":"Colorado, USA",
+               "distance":1037668
+            },
+            {
+               "destination":"Connecticut, USA",
+               "distance":3916856
+            },
+            {
+               "destination":"Delaware, USA",
+               "distance":3666289
+            },
+            {
+               "destination":"Florida, USA",
+               "distance":3457665
+            },
+            {
+               "destination":"Georgia, USA",
+               "distance":3031980
+            }
+         ]
+      },
+      {
+         "origin":"Colorado, USA",
+         "destinations":[
+            {
+               "destination":"Alabama, USA",
+               "distance":2382609
+            },
+            {
+               "destination":"Alaska, USA",
+               "distance":5178161
+            },
+            {
+               "destination":"Arizona, USA",
+               "distance":1037427
+            },
+            {
+               "destination":"Arkansas, USA",
+               "distance":1686277
+            },
+            {
+               "destination":"California, USA",
+               "distance":1797539
+            },
+            {
+               "destination":"Connecticut, USA",
+               "distance":3088458
+            },
+            {
+               "destination":"Delaware, USA",
+               "distance":2906147
+            },
+            {
+               "destination":"Florida, USA",
+               "distance":3161822
+            },
+            {
+               "destination":"Georgia, USA",
+               "distance":2611231
+            }
+         ]
+      },
+      {
+         "origin":"Alabama, USA",
+         "destinations":[
+            {
+               "destination":"Alaska, USA",
+               "distance":6932744
+            },
+            {
+               "destination":"Arizona, USA",
+               "distance":2564574
+            },
+            {
+               "destination":"Arkansas, USA",
+               "distance":718326
+            },
+            {
+               "destination":"California, USA",
+               "distance":3478122
+            },
+            {
+               "destination":"Colorado, USA",
+               "distance":2401541
+            },
+            {
+               "destination":"Connecticut, USA",
+               "distance":1866468
+            },
+            {
+               "destination":"Delaware, USA",
+               "distance":1497540
+            },
+            {
+               "destination":"Florida, USA",
+               "distance":911077
+            },
+            {
+               "destination":"Georgia, USA",
+               "distance":451101
+            }
+         ]
+      },
+      {
+         "origin":"California, USA",
+         "destinations":[
+            {
+               "destination":"Alabama, USA",
+               "distance":3480609
+            },
+            {
+               "destination":"Alaska, USA",
+               "distance":5261076
+            },
+            {
+               "destination":"Arizona, USA",
+               "distance":1183473
+            },
+            {
+               "destination":"Arkansas, USA",
+               "distance":2902405
+            },
+            {
+               "destination":"Colorado, USA",
+               "distance":1797553
+            },
+            {
+               "destination":"Connecticut, USA",
+               "distance":4812872
+            },
+            {
+               "destination":"Delaware, USA",
+               "distance":4580593
+            },
+            {
+               "destination":"Florida, USA",
+               "distance":4350218
+            },
+            {
+               "destination":"Georgia, USA",
+               "distance":3946284
+            }
+         ]
+      }
+   ]
+}
